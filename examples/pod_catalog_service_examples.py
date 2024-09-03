@@ -2,7 +2,7 @@ import requests
 
 def get_pod_varieties(season, color_range):
     """
-    Retrieves pod varieties based on season and color range.
+    Retrieves pod varieties based on season and color range. Changed something
 
     Args:
         season (str): The current season (e.g., "summer").
